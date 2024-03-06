@@ -9,6 +9,9 @@ const eventSchema = new Schema({
   venue: String,
   description: String,
   url: String,
+  price: String,
+  organiser: String,
+  user: String,
 });
 
 const Event = mongoose.models.Event || mongoose.model("Event", eventSchema);
