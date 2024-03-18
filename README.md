@@ -31,7 +31,7 @@ TKT is an event ticketing platform designed for music concerts, allowing guests 
 
 ## Contributors
 
-- [Your Name](link to your GitHub profile) - Project Lead
+- Ezequiel Gómez de Lima
 
 ## License
 
